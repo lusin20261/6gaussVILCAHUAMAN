@@ -1,0 +1,6 @@
+print("----------------------Bienvenidos a la calculadora de fuerzas----------------")
+masa= input("Ingresa la masa: ")
+aceleración= input("Ingresa la aceleración: ")
+fuerza = (int(masa)*int(aceleración))
+print("La fuerza seria: ",fuerza,"newtons")
+print("Gracias.")
